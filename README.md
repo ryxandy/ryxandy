@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; I've been developing Java software for two years.
+- 🤔 &nbsp; Two years of experience with Software development using Java.
 - 🎓 &nbsp; Graduated in Information Systems at Estácio University.
 - 💼 &nbsp; Currently working at Datum TI / Wipro.
 - 🌱 &nbsp; Learning more about Spring Cloud, Clean code and Spring ecosystem.
