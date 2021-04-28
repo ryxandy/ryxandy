@@ -40,5 +40,5 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/alexandreslopes/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-alexandreslopes-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/xande.dll/?hl=pt-br"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-xande.dll-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:ryxandy@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ryxandy@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:ryxandy@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ryxandy@hotmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
