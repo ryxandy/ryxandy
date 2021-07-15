@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Two years of experience with Software development using Java.
 - 🎓 &nbsp; Graduated in Information Systems at Estácio University.
-- 💼 &nbsp; Currently working at Datum TI / Wipro.
+- 💼 &nbsp; Currently working at Wipro/ MasterCard International.
 - 🌱 &nbsp; Learning more about Spring Cloud, Clean code and Spring ecosystem.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
